@@ -2404,8 +2404,8 @@ react-proxy@^1.1.7:
     react-deep-force-update "^1.0.0"
 
 react-redux-firebase@^2.0.0-alpha.7:
-  version "2.0.0-alpha.6"
-  resolved "https://registry.yarnpkg.com/react-redux-firebase/-/react-redux-firebase-2.0.0-alpha.7.tgz#87d55fca3d130ab13a6fd9c51da5aa8026beada4"
+  version "2.0.0-alpha.7"
+  resolved "https://registry.yarnpkg.com/react-redux-firebase/-/react-redux-firebase-2.0.0-alpha.7.tgz#f7978690574c16b27c219d700643c64ce3ad253a"
   dependencies:
     firebase "^4.1.3"
     hoist-non-react-statics "^1.2.0"

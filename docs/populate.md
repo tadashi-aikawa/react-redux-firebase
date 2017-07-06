@@ -20,10 +20,6 @@ todos: {
     owner: "Iq5b0qK2NtgggT6U3bU6iZRGyma2"
    }
  }
- displayNames: {
-   Iq5b0qK2NtgggT6U3bU6iZRGyma2: 'Scott Prue',
-   6Ra53mf3U9Qmdwah6rXBMgY8smu1: 'Rick Sanchez'
- }
  users: {
    Iq5b0qK2NtgggT6U3bU6iZRGyma2: {
      displayName: 'Scott Prue',
